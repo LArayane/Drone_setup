@@ -42,4 +42,4 @@ now bound to each other then Remove the bind plug.>>
 * Connect the ESCs to the Quadrino Nano using the colored wire harness for an easy connection, shipped with the board according to the multirotor
 type, Figure 3.11. The ESC plugged to the three wires will power the flight controller with its internal voltage regulator (BEC).
 
-![](Images/Captur111.png)
+![](Images/Captur111.PNG)
