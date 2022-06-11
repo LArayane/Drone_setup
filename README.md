@@ -53,10 +53,10 @@ type, Figure 3.11. The ESC plugged to the three wires will power the flight cont
 
 ![](Images/Capture1.PNG)
 
-* Arm the motors by pushing the Yaw stick all the way down to the right, the transmitter Sticks will change motor speeds. Disarm is done with the same process.
+* Arm the motors by pushing the Yaw stick all the way down to the right, the transmitter Sticks will change motor speeds. Disarming is done with the same process.
 
 ## Control System of the quadcopter
-When moving the transmitter sticks which are nothing but a potentiometers, a voltage will be generated through a radio signal to the receiver that will interpret
+When moving the transmitter sticks which are nothing but a potentiometers, voltage will be generated through a radio signal to the receiver that will interpret
 these signals and sends roll, pitch and yaw rates as well as the thrust to the flight controller.
 The flight controller gets the measurements through the sensors, compares it with the desired set points, applies a PID controller that can be tuned from WinGUI and
 send the output as a PWM signals to the ESCs.
