@@ -41,7 +41,7 @@ is initiated when with "Calibrate MAG" button, and once it is started the flight
 <<  The Transmitter and Receiver should be bound to each other so they can communicate with each other. The process to follow is simple,
 connect the bind plug into the Bind pins of your Receiver as well as a battery with the transmitter turned on, red light will blink. Then hold down the bind
 button on the Transmitter and turn it on, the flashing light on the Receiver will become stable and this means that your Transmitter and Receiver are
-now bound to each other then Remove the bind plug..>>
+now bounded to each other then Remove the bind plug..>>
 
 * Stick the Flight Controller firmly onto the platform Using strong double-sided foam tape tape.
 * Connect the ESCs to the Quadrino Nano using the colored wire harness for an easy connection, shipped with the board according to the multirotor
