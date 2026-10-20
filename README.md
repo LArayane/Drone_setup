@@ -1,5 +1,5 @@
 # Remotely controlled drone setup
- [Test Flight link](https://www.youtube.com/watch?v=u7fy18dJMNI&list=PLWg0Iqn2Q4SG88FVElzByj8Zt-VG_t_fO&index=2)
+ [Test Flight link](https://www.youtube.com/shorts/nCLQDfFJIds)
 
 ![](Images/Capture1111.PNG)
 
